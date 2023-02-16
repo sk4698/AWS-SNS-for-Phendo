@@ -1,2 +1,2 @@
 # AWS-SNS-for-Phendo
-Implementation of AWS SNS for Phendo voice study
+This project is an implementation of a messsaging service using AWS SNS in Python.
